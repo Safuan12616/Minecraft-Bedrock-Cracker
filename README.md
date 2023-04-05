@@ -4,9 +4,9 @@ Minecraft Bedrock Cracker is a bunch of  <code>.dll</code> sets to crack Minecra
 
 ## Using Cracker
 
-1. Navigate to Unlock Minecraft folder.
+1. Navigate to Unlock Minecraft folder **Minecraft Bedrock** > **Minecraft Bedrock** > **Unlock Minecraft**.
 2. Open **x64** or **x32** folders. *(Accroding to Your Windows Version. If it's 32 bit then **x32** and if it's 64 bit then **x64**.)*
-3. Open <code>M-Centres 3.0.exe</code>
+3. Run <code>M-Centres 3.0.exe</code>
 
 ## Downloading
 

@@ -14,6 +14,6 @@ Minecraft Bedrock Cracker is a bunch of  <code>.dll</code> sets to crack Minecra
 2. Set the directory as it's in this repository.
 
 ## Note
-Please download **every file** from this repository.
+Please download **every file** from this repository and setup as same as it's in this repository.
 
 *You may need to use the <code>M-Centres 3.0.exe</code> again if it has been a long time you used the crack.*
